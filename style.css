@@ -1,1 +1,13 @@
+body { 
+    color: brown;
+    text-align: center;
+    background-image: url(./beach.jpg); background-size: cover;
 
+}
+image { 
+    width 25%;
+    height 40%;
+}
+div {
+    backgroud-color red
+}
